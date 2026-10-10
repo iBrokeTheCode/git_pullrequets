@@ -4,4 +4,5 @@
 
 - Lanzar telaraña
 - Agilidad
-- Etc.
+- Flexibilidad
+- Velocidad
